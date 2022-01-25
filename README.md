@@ -14,7 +14,7 @@ This is a solution to [Frontend Mentor NFT Preview Card Component Challenge] (ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
+- [My process]
   - [built with](#built with)
   - [What I learned](#what-I-learned)
   - [Continuous development](#continuous-development)
@@ -24,7 +24,7 @@ This is a solution to [Frontend Mentor NFT Preview Card Component Challenge] (ht
 
 ## General description
 
-![](./design/desktop-preview.jpg)
+
 
 
 ### Links
